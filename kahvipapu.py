@@ -11,7 +11,7 @@ import random
 
 import praw
 
-import youtube_dl
+import youtube_dl (Not really necessary yet!)
 
 
 #Set bot as active.
